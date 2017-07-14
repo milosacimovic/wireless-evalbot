@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<deviceVariant value="Cortex M.LM3S9B92"/>
+	<deviceFamily value="TMS470"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="4.9.1"/>
+	<isElfFormat value="true"/>
+	<connection value=""/>
+	<rts value="libc.a"/>
+	<origin value="E:/EvalBot_Ethernet"/>
+	<isTargetManual value="true"/>
+</projectOptions>

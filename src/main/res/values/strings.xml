@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Stellaris Evalbot Wireless</string>
+    <string name="up_arrow">▲</string>
+    <string name="down_arrow">▼</string>
+    <string name="left_arrow">◀</string>
+    <string name="right_arrow">▶</string>
+    <string name="rot_left_arrow">↶</string>
+    <string name="rot_right_arrow">↷</string>
+    <string name="speed_up">+</string>
+    <string name="speed_down">-</string>
+    <string name="stop">STOP</string>
+    <string name="ip_addr">IP address:</string>
+    <string name="ip_desc">Enter Raspberry PI IP address</string>
+    <string name="conn">Connect</string>
+    <string name="disconn">Disconnect</string>
+</resources>
